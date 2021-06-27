@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.schedule-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 90%;
+    height: 65%;
+    border-radius: .25rem;
+    background: rgb(126,75,17, .2);
+}
+
